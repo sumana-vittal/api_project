@@ -1,0 +1,12 @@
+pip install requests
+
+
+websites used:
+for auth and param
+https://gorest.co.in/
+
+basic get,post,put
+https://fakerestapi.azurewebsites.net/index.html
+
+json file
+reqres.in
