@@ -10,3 +10,7 @@ https://fakerestapi.azurewebsites.net/index.html
 
 json file
 reqres.in
+
+pytest
+pip install pytest
+import pytest
